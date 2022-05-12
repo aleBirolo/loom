@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650628120 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\normalizarcadena\cadena.c
+	"cadena.h"
+
+1650628120 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\normalizarcadena\cadena.h
+	<stdio.h>
+	<stdlib.h>
+
+1650628168 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\normalizarcadena\main.c
+	"cadena.h"
+

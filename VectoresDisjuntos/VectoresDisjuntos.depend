@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650321920 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\vectoresdisjuntos\main.c
+	"vectores.h"
+
+1650322604 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\vectoresdisjuntos\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1650322566 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\vectoresdisjuntos\vectores.c
+	"vectores.h"
+

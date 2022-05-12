@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652314992 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c++\tp_6\matriz dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650320187 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\matriz_simetrica\matriz.c
+	"matriz.h"
+
+1650319679 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\matriz_simetrica\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1650320100 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\loom\matriz_simetrica\main.c
+	"matriz.h"
+
